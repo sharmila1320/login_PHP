@@ -133,16 +133,15 @@ You should see:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-You can add screenshots of:
+### ✨ Home Page with 3D Background
 
-* Homepage
-* Login modal
-* Registration modal
-* Logged-in view
+![Homepage with 3D Vanta.js Animation](https://raw.githubusercontent.com/sharmila1320/login_PHP/main/Screenshot%202025-06-14%20191615.png)
 
----
+> Displays a logged-in welcome message with the user's name.  
+> Features a 3D interactive background powered by Vanta.js and a modern navbar.
+
 
 ## 🧑‍💻 Author
 
